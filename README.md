@@ -1,6 +1,6 @@
-# filtering_textfiled
+# filtering_textfield and delayed searching
 
-A new Flutter project.
+A new Flutter project to implement list view filtering and delayed searching to reduce the impact of load on the servers or the systems.
 
 ## Getting Started
 
